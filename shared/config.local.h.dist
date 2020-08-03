@@ -1,0 +1,8 @@
+
+const char *ssid =  "your_ssid";
+const char *pass =  "your_wpa2_key";
+
+
+// basic auth for all NodeMCU's and all Tasmota's
+const char* http_username = "admin"; 
+const char* http_password = "supersecretpassword";
